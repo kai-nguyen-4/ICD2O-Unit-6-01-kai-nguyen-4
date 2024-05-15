@@ -5,6 +5,15 @@
 // This file contains the JS functions for index.html
 "use strict"
 
+/**
+ * Check servie worker.
+ */
+if (navigator.serviceWorker) {
+  navigator.serviceWorker.register("/ICS2O-Unit-6-01-kai-nguyen-4/sw.js", {
+    scope: "/ICS2O-Unit-6-01-kai-nguyen-4/",
+  })
+}
+
 function divisionClicked() {
   let numerator = parseInt(document.getElementById("num1-entered").value)
   const denominator = parseInt(document.getElementById("num2-entered").value)
