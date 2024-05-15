@@ -2,7 +2,8 @@
   "name": "Kai Nguyen's App",
   "short_name": "Kai Nguyen's App",
   "description": "Github page for Kai Nguyen's App",
-  "scope": "",
+  "scope": "/ICD2O-Unit-6-01-kai-nguyen-4/",
+  "start-url": "/ICD2O-Unit-6-01-kai-nguyen-4/",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
