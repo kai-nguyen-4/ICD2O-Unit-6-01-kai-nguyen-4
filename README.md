@@ -6,7 +6,7 @@
 
 [![Deploy Pages](https://github.com/MTHS-ICD2O-1-2023/ICD2O-Unit-6-01-kai-nguyen-4/workflows/Deploy%20Pages/badge.svg)](https://github.com/MTHS-ICD2O-1-2023/ICD2O-Unit-6-01-kai-nguyen-4/actions)
 
-This site can be found at: [https://MTHS-ICD2O-1-2023.github.io/ICD2O-Unit-5-08-kai-nguyen-4](https://MTHS-ICD2O-1-2023.github.io/ICD2O-Unit-6-01-kai-nguyen-4)
+This site can be found at: [https://MTHS-ICD2O-1-2023.github.io/ICD2O-Unit-6-01-kai-nguyen-4](https://MTHS-ICD2O-1-2023.github.io/ICD2O-Unit-6-01-kai-nguyen-4)
 
 ---
 
